@@ -37,7 +37,7 @@ const Main = () => {
     city && console.log(city);
 
     return (
-        <main className="main"> 
+        <main className="main">
             <Header />  
             <Content>
                 <Tagline />

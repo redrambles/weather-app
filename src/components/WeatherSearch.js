@@ -2,7 +2,6 @@ import React, {useContext} from "react";
 
 import Context from "../Context"
 
-
 const WeatherSearch = () => {
 
     const {apiCall} = useContext(Context);
