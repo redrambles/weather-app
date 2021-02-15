@@ -37,8 +37,8 @@ const Main = () => {
     city && console.log(city);
 
     return (
-        <main className="main"> 
-            <Header />  
+        <main className="main">
+        <Header />  
             <Content>
                 <Tagline />
                 <DateTime />

@@ -5,7 +5,7 @@ import Main from "./components/Main"
 const App = () => {
   return (
     <Wrapper>
-      <Main />
+      <Main/>
     </Wrapper>
   )
 };
